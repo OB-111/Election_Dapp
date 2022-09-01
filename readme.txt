@@ -1,5 +1,14 @@
 set up
 -----------------
+
+Full Election Dapp application on ethereum BlockChain
+Project include ERC20 ,ERC721 SmartContract implementation 
+BackEnd : ethereum Network with ganache / hardhat 
+FrontEnd: Web3js , React 
+
+RUN
+-----------------
+
 1.install both apps with calling npm install in their folders
 2.run either hardhat  node in election-contracts folder using npx hardhat node)
 3.make sure your localhost account on web wallet is cleaned of transactions because it wont align with the newly created network
